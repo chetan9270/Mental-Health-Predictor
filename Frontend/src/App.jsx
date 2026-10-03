@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://mental-health-predictor-4-3xgz.onrender.com";
 
 const initialForm = {
   age: "", gender: "", country: "", academic_level: "",
