@@ -18,13 +18,6 @@
 
 👉 https://mental-health-predictor-frontend5.onrender.com
 
-### ⚡ Backend API
-
-👉 https://mental-health-predictor-4-3xgz.onrender.com
-
-### 📚 API Documentation
-
-👉 https://mental-health-predictor-4-3xgz.onrender.com/docs
 
 
 ## 📌 Overview
